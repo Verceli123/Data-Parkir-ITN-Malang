@@ -1,0 +1,21 @@
+ID,Plat_Nomor,Jenis,Merk,Model,Warna,Status,Tanggal,Jam_Masuk,Jam_Keluar,Area,Menginap,Durasi_Menit,Valid_Durasi,Valid_Tanggal,Valid_Area
+1,N 4521 AB,Motor,Honda,Beat,Merah,Mahasiswa,2026-09-01,07:15,15:30,Kampus 1 - Motor,False,495.0,True,True,True
+3,N 1287 CD,Mobil,Toyota,Innova,Silver,Dosen,2026-09-01,08:00,16:00,Kampus 1 - Mobil,False,480.0,True,True,True
+4,N 6610 XY,Motor,Yamaha,NMAX,Biru,Mahasiswa,2026-09-01,07:45,14:10,Kampus 1 - Motor,False,385.0,True,True,True
+6,AG 7788 GH,Motor,Suzuki,Satria F150,Biru,Mahasiswa,2026-09-02,09:00,17:00,Kampus 2 - Motor,False,480.0,True,True,True
+8,N 2468 KL,Mobil,Daihatsu,Xenia,Hitam,Staf,2026-09-03,07:30,16:30,Kampus 1 - Mobil,False,540.0,True,True,True
+9,DK 1357 MN,Motor,Honda,Supra X 125,Hijau,Tamu,2026-09-03,10:00,11:30,Kampus 2 - Motor,False,90.0,True,True,True
+11,,Motor,Kawasaki,Ninja 250,Hijau,Mahasiswa,2026-09-04,08:05,12:00,Kampus 1 - Motor,False,235.0,True,True,True
+12,N 1111 QR,Mobil,Toyota,Avanza,Abu-abu,Dosen,2026-09-04,08:15,17:45,Kampus 1 - Mobil,False,570.0,True,True,True
+14,N 3333 UV,Motor,Yamaha,Mio,Merah,Mahasiswa,2026-09-04,09:30,13:00,Kampus 1 - Motor,False,210.0,True,True,True
+15,B 4444 WX,Mobil,Mitsubishi,Xpander,Coklat,Tamu,2026-09-05,13:00,14:00,Kampus 2 - Mobil,False,60.0,True,True,True
+18,N 7777 BB,Sepeda,Polygon,Xtrada,Biru,Mahasiswa,2026-09-06,08:00,12:30,Kampus 2 - Motor,False,270.0,True,True,True
+19,N 8888 CC,Mobil,Toyota,Fortuner,Putih,Dosen,2026-09-06,08:00,08:00,Kampus 2 - Mobil,True,1440.0,True,True,True
+20,N 9999 DD,Motor,Honda,CB150R,Hitam,Staf,2026-09-06,07:30,16:00,Kampus 1 - Motor,False,510.0,True,True,True
+21,N 1010 EE,Motor,Yamaha,Aerox,Biru Tua,Mahasiswa,2026-09-07,07:40,15:00,Kampus 2 - Motor,False,440.0,True,True,True
+23,N 1212 FF,Motor,Honda,Beat,Merah,Tidak Diketahui,2026-09-07,08:20,16:10,Kampus 2 - Motor,False,470.0,True,True,True
+25,N 1414 HH,Motor,Honda,Scoopy,Krem,Mahasiswa,2026-09-08,07:05,16:00,Kampus 1 - Motor,False,535.0,True,True,True
+26,N 1515 II,Motor,Honda,Vario,Biru,Mahasiswa,2026-09-08,08:10,17:00,Kampus 1 - Motor,False,530.0,True,True,True
+27,N 1616 JJ,Motor,Honda,,Abu-abu,Mahasiswa,2026-09-08,08:30,16:45,Kampus 2 - Motor,False,495.0,True,True,True
+28,N 1717 KK,Mobil,Honda,Jazz,Putih,Staf,2026-09-09,08:00,17:00,Kampus 1 - Mobil,False,540.0,True,True,True
+29,N 1818 LL,Motor,Yamaha,Mio,Hijau,Mahasiswa,2026-09-09,07:55,16:05,Kampus 1 - Motor,False,490.0,True,True,True
